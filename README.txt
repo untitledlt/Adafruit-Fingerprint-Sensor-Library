@@ -1,3 +1,6 @@
+Adapted for ESP8266
+Tested on ESP 12
+
 This is a library for our Optical Fingerprint sensor
 
   Pick one up today in the adafruit shop!
