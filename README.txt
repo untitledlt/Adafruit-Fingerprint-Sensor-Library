@@ -1,5 +1,5 @@
 Adapted for ESP8266
-Tested on ESP 12
+Tested on ESP 12 with SoftwareSerial only
 
 This is a library for our Optical Fingerprint sensor
 
